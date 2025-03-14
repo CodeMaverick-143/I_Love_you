@@ -9,7 +9,7 @@ export default function Welcome() {
         <Wifi className="w-16 h-16 text-rose-gold-300 absolute -bottom-8 -right-8 opacity-30 floating" />
         <div className="bg-white/60 backdrop-blur-lg rounded-3xl p-8 md:p-12 shadow-xl relative z-10">
           <h1 className="text-4xl md:text-6xl font-bold text-rose-gold-600 mb-6">
-            Happy Birthday, My Digital Love
+            Happy Birthday, SweetHeart
           </h1>
           <p className="text-xl md:text-2xl text-rose-gold-800 mb-8 leading-relaxed">
             To the one who makes every notification special,<br />
